@@ -1,4 +1,4 @@
-##Contact List for Udacity exercise
+## Contact List for Udacity exercise
 This is a guide project for Udacity React nanodegree for creating a simple contact list in React.JS. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
